@@ -16,6 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+import coffee.api_views
+
 urlpatterns = [
+    path('api/v1/coffee_machines/', coffee.api_views.CoffeeMachineList.as_view()),
+    path('api/v1/coffee_pods/', coffee.api_views.CoffeePodList.as_view()),
     path('admin/', admin.site.urls),
 ]
