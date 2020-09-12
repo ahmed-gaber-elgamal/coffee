@@ -5,10 +5,10 @@ from .models import CoffeeMachine, CoffeePod
 class CoffeeMachineSerializer(serializers.ModelSerializer):
     class Meta:
         model = CoffeeMachine
-        fields = ('product_type', 'water_line_compatible')
+        fields = ('sku_number', 'product_type', 'water_line_compatible', 'model_type')
 
 
 class CoffeePodSerializer(serializers.ModelSerializer):
     class Meta:
         model = CoffeePod
-        fields = ('product_type', 'coffee_flavor', 'pack_size')
+        fields = ('sku_number', 'product_type', 'coffee_flavor', 'pack_size')
