@@ -1,0 +1,182 @@
+{ 
+    "_id" : ObjectId("5f5cba40ffa66c6a4aa8a0c9"), 
+    "id" : NumberInt(2), 
+    "product_type" : "COFFEE_POD_SMALL", 
+    "coffee_flavor" : "COFFEE_FLAVOR_VANILLA", 
+    "pack_size" : "DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cba57ffa66c6a4aa8a0cb"), 
+    "id" : NumberInt(3), 
+    "product_type" : "COFFEE_POD_SMALL", 
+    "coffee_flavor" : "COFFEE_FLAVOR_VANILLA", 
+    "pack_size" : "3_DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cba6fffa66c6a4aa8a0cd"), 
+    "id" : NumberInt(4), 
+    "product_type" : "COFFEE_POD_SMALL", 
+    "coffee_flavor" : "COFFEE_FLAVOR_CARAMEL", 
+    "pack_size" : "DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cba89ffa66c6a4aa8a0cf"), 
+    "id" : NumberInt(5), 
+    "product_type" : "COFFEE_POD_SMALL", 
+    "coffee_flavor" : "COFFEE_FLAVOR_CARAMEL", 
+    "pack_size" : "3_DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cba9cffa66c6a4aa8a0d1"), 
+    "id" : NumberInt(6), 
+    "product_type" : "COFFEE_POD_SMALL", 
+    "coffee_flavor" : "COFFEE_FLAVOR_PSL", 
+    "pack_size" : "DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbb3effa66c6a4aa8a0d3"), 
+    "id" : NumberInt(7), 
+    "product_type" : "COFFEE_POD_SMALL", 
+    "coffee_flavor" : "COFFEE_FLAVOR_PSL", 
+    "pack_size" : "3_DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbb4fffa66c6a4aa8a0d5"), 
+    "id" : NumberInt(8), 
+    "product_type" : "COFFEE_POD_SMALL", 
+    "coffee_flavor" : "COFFEE_FLAVOR_MOCHA", 
+    "pack_size" : "DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbb7cffa66c6a4aa8a0d7"), 
+    "id" : NumberInt(9), 
+    "product_type" : "COFFEE_POD_SMALL", 
+    "coffee_flavor" : "COFFEE_FLAVOR_MOCHA", 
+    "pack_size" : "3_DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbb92ffa66c6a4aa8a0d9"), 
+    "id" : NumberInt(10), 
+    "product_type" : "COFFEE_POD_SMALL", 
+    "coffee_flavor" : "COFFEE_FLAVOR_HAZELNUT", 
+    "pack_size" : "DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbbd4ffa66c6a4aa8a0dc"), 
+    "id" : NumberInt(11), 
+    "product_type" : "COFFEE_POD_SMALL", 
+    "coffee_flavor" : "COFFEE_FLAVOR_HAZELNUT", 
+    "pack_size" : "3_DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbbe7ffa66c6a4aa8a0de"), 
+    "id" : NumberInt(12), 
+    "product_type" : "COFFEE_POD_LARGE", 
+    "coffee_flavor" : "COFFEE_FLAVOR_VANILLA", 
+    "pack_size" : "DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbc08ffa66c6a4aa8a0e0"), 
+    "id" : NumberInt(13), 
+    "product_type" : "COFFEE_POD_LARGE", 
+    "coffee_flavor" : "COFFEE_FLAVOR_VANILLA", 
+    "pack_size" : "3_DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbc12ffa66c6a4aa8a0e2"), 
+    "id" : NumberInt(14), 
+    "product_type" : "COFFEE_POD_LARGE", 
+    "coffee_flavor" : "COFFEE_FLAVOR_CARAMEL", 
+    "pack_size" : "DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbc1effa66c6a4aa8a0e4"), 
+    "id" : NumberInt(15), 
+    "product_type" : "COFFEE_POD_LARGE", 
+    "coffee_flavor" : "COFFEE_FLAVOR_CARAMEL", 
+    "pack_size" : "3_DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbc36ffa66c6a4aa8a0e6"), 
+    "id" : NumberInt(16), 
+    "product_type" : "COFFEE_POD_LARGE", 
+    "coffee_flavor" : "COFFEE_FLAVOR_PSL", 
+    "pack_size" : "DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbc44ffa66c6a4aa8a0e8"), 
+    "id" : NumberInt(17), 
+    "product_type" : "COFFEE_POD_LARGE", 
+    "coffee_flavor" : "COFFEE_FLAVOR_PSL", 
+    "pack_size" : "3_DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbc4dffa66c6a4aa8a0ea"), 
+    "id" : NumberInt(18), 
+    "product_type" : "COFFEE_POD_LARGE", 
+    "coffee_flavor" : "COFFEE_FLAVOR_MOCHA", 
+    "pack_size" : "DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbc5dffa66c6a4aa8a0ec"), 
+    "id" : NumberInt(19), 
+    "product_type" : "COFFEE_POD_LARGE", 
+    "coffee_flavor" : "COFFEE_FLAVOR_MOCHA", 
+    "pack_size" : "3_DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbc6effa66c6a4aa8a0ee"), 
+    "id" : NumberInt(20), 
+    "product_type" : "COFFEE_POD_LARGE", 
+    "coffee_flavor" : "COFFEE_FLAVOR_HAZELNUT", 
+    "pack_size" : "DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbc7affa66c6a4aa8a0f0"), 
+    "id" : NumberInt(21), 
+    "product_type" : "COFFEE_POD_LARGE", 
+    "coffee_flavor" : "COFFEE_FLAVOR_HAZELNUT", 
+    "pack_size" : "3_DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbc92ffa66c6a4aa8a0f2"), 
+    "id" : NumberInt(22), 
+    "product_type" : "ESPRESSO_POD", 
+    "coffee_flavor" : "COFFEE_FLAVOR_VANILLA", 
+    "pack_size" : "3_DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbcaeffa66c6a4aa8a0f4"), 
+    "id" : NumberInt(23), 
+    "product_type" : "ESPRESSO_POD", 
+    "coffee_flavor" : "COFFEE_FLAVOR_VANILLA", 
+    "pack_size" : "5_DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbcbdffa66c6a4aa8a0f6"), 
+    "id" : NumberInt(24), 
+    "product_type" : "ESPRESSO_POD", 
+    "coffee_flavor" : "COFFEE_FLAVOR_VANILLA", 
+    "pack_size" : "7_DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbce5ffa66c6a4aa8a0f8"), 
+    "id" : NumberInt(25), 
+    "product_type" : "ESPRESSO_POD", 
+    "coffee_flavor" : "COFFEE_FLAVOR_CARAMEL", 
+    "pack_size" : "3_DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbcf3ffa66c6a4aa8a0fa"), 
+    "id" : NumberInt(26), 
+    "product_type" : "ESPRESSO_POD", 
+    "coffee_flavor" : "COFFEE_FLAVOR_CARAMEL", 
+    "pack_size" : "5_DOZEN"
+}
+{ 
+    "_id" : ObjectId("5f5cbd03ffa66c6a4aa8a0fc"), 
+    "id" : NumberInt(27), 
+    "product_type" : "ESPRESSO_POD", 
+    "coffee_flavor" : "COFFEE_FLAVOR_CARAMEL", 
+    "pack_size" : "7_DOZEN"
+}

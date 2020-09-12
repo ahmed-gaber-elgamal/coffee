@@ -1,0 +1,161 @@
+{ 
+    "_id" : ObjectId("5f5c15d858c728783623540c"), 
+    "id" : NumberInt(1), 
+    "app" : "contenttypes", 
+    "name" : "0001_initial", 
+    "applied" : ISODate("2020-09-12T00:27:04.483+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15db58c728783623540d"), 
+    "id" : NumberInt(2), 
+    "app" : "auth", 
+    "name" : "0001_initial", 
+    "applied" : ISODate("2020-09-12T00:27:07.060+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15dd58c728783623540e"), 
+    "id" : NumberInt(3), 
+    "app" : "admin", 
+    "name" : "0001_initial", 
+    "applied" : ISODate("2020-09-12T00:27:09.004+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15dd58c728783623540f"), 
+    "id" : NumberInt(4), 
+    "app" : "admin", 
+    "name" : "0002_logentry_remove_auto_add", 
+    "applied" : ISODate("2020-09-12T00:27:09.295+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15dd58c7287836235410"), 
+    "id" : NumberInt(5), 
+    "app" : "admin", 
+    "name" : "0003_logentry_add_action_flag_choices", 
+    "applied" : ISODate("2020-09-12T00:27:09.312+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15dd58c7287836235411"), 
+    "id" : NumberInt(6), 
+    "app" : "contenttypes", 
+    "name" : "0002_remove_content_type_name", 
+    "applied" : ISODate("2020-09-12T00:27:09.344+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15dd58c7287836235412"), 
+    "id" : NumberInt(7), 
+    "app" : "auth", 
+    "name" : "0002_alter_permission_name_max_length", 
+    "applied" : ISODate("2020-09-12T00:27:09.351+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15dd58c7287836235413"), 
+    "id" : NumberInt(8), 
+    "app" : "auth", 
+    "name" : "0003_alter_user_email_max_length", 
+    "applied" : ISODate("2020-09-12T00:27:09.365+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15dd58c7287836235414"), 
+    "id" : NumberInt(9), 
+    "app" : "auth", 
+    "name" : "0004_alter_user_username_opts", 
+    "applied" : ISODate("2020-09-12T00:27:09.377+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15dd58c7287836235415"), 
+    "id" : NumberInt(10), 
+    "app" : "auth", 
+    "name" : "0005_alter_user_last_login_null", 
+    "applied" : ISODate("2020-09-12T00:27:09.389+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15dd58c7287836235416"), 
+    "id" : NumberInt(11), 
+    "app" : "auth", 
+    "name" : "0006_require_contenttypes_0002", 
+    "applied" : ISODate("2020-09-12T00:27:09.393+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15dd58c7287836235417"), 
+    "id" : NumberInt(12), 
+    "app" : "auth", 
+    "name" : "0007_alter_validators_add_error_messages", 
+    "applied" : ISODate("2020-09-12T00:27:09.405+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15dd58c7287836235418"), 
+    "id" : NumberInt(13), 
+    "app" : "auth", 
+    "name" : "0008_alter_user_username_max_length", 
+    "applied" : ISODate("2020-09-12T00:27:09.416+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15dd58c7287836235419"), 
+    "id" : NumberInt(14), 
+    "app" : "auth", 
+    "name" : "0009_alter_user_last_name_max_length", 
+    "applied" : ISODate("2020-09-12T00:27:09.429+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15dd58c728783623541a"), 
+    "id" : NumberInt(15), 
+    "app" : "auth", 
+    "name" : "0010_alter_group_name_max_length", 
+    "applied" : ISODate("2020-09-12T00:27:09.441+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15dd58c728783623541b"), 
+    "id" : NumberInt(16), 
+    "app" : "auth", 
+    "name" : "0011_update_proxy_permissions", 
+    "applied" : ISODate("2020-09-12T00:27:09.454+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c15dd58c728783623541c"), 
+    "id" : NumberInt(17), 
+    "app" : "sessions", 
+    "name" : "0001_initial", 
+    "applied" : ISODate("2020-09-12T00:27:09.852+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c2523fbd1f2c94b1db55a"), 
+    "id" : NumberInt(18), 
+    "app" : "coffee", 
+    "name" : "0001_initial", 
+    "applied" : ISODate("2020-09-12T01:32:19.831+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c2927ee04e23d4329b8b2"), 
+    "id" : NumberInt(19), 
+    "app" : "coffee", 
+    "name" : "0002_coffeepod", 
+    "applied" : ISODate("2020-09-12T01:49:27.239+0000")
+}
+{ 
+    "_id" : ObjectId("5f5c298d94c01006b97c21f3"), 
+    "id" : NumberInt(20), 
+    "app" : "coffee", 
+    "name" : "0003_auto_20200912_0151", 
+    "applied" : ISODate("2020-09-12T01:51:09.638+0000")
+}
+{ 
+    "_id" : ObjectId("5f5cb0bd9f0428cc2da233a5"), 
+    "id" : NumberInt(21), 
+    "app" : "coffee", 
+    "name" : "0004_auto_20200912_1127", 
+    "applied" : ISODate("2020-09-12T11:27:56.981+0000")
+}
+{ 
+    "_id" : ObjectId("5f5cd1814b905f85df47fdf2"), 
+    "id" : NumberInt(22), 
+    "app" : "coffee", 
+    "name" : "0005_auto_20200912_1346", 
+    "applied" : ISODate("2020-09-12T13:47:45.267+0000")
+}
+{ 
+    "_id" : ObjectId("5f5d195892b46975b775f437"), 
+    "id" : NumberInt(23), 
+    "app" : "coffee", 
+    "name" : "0005_auto_20200912_1854", 
+    "applied" : ISODate("2020-09-12T18:54:16.742+0000")
+}

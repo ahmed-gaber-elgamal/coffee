@@ -1,0 +1,48 @@
+{ 
+    "_id" : ObjectId("5f5c15de58c728783623541d"), 
+    "id" : NumberInt(1), 
+    "app_label" : "admin", 
+    "model" : "logentry"
+}
+{ 
+    "_id" : ObjectId("5f5c15de58c7287836235422"), 
+    "id" : NumberInt(2), 
+    "app_label" : "auth", 
+    "model" : "permission"
+}
+{ 
+    "_id" : ObjectId("5f5c15de58c7287836235423"), 
+    "id" : NumberInt(3), 
+    "app_label" : "auth", 
+    "model" : "group"
+}
+{ 
+    "_id" : ObjectId("5f5c15de58c7287836235424"), 
+    "id" : NumberInt(4), 
+    "app_label" : "auth", 
+    "model" : "user"
+}
+{ 
+    "_id" : ObjectId("5f5c15de58c7287836235431"), 
+    "id" : NumberInt(5), 
+    "app_label" : "contenttypes", 
+    "model" : "contenttype"
+}
+{ 
+    "_id" : ObjectId("5f5c15de58c7287836235436"), 
+    "id" : NumberInt(6), 
+    "app_label" : "sessions", 
+    "model" : "session"
+}
+{ 
+    "_id" : ObjectId("5f5c2524fbd1f2c94b1db55b"), 
+    "id" : NumberInt(7), 
+    "app_label" : "coffee", 
+    "model" : "coffeemachine"
+}
+{ 
+    "_id" : ObjectId("5f5c2927ee04e23d4329b8b3"), 
+    "id" : NumberInt(8), 
+    "app_label" : "coffee", 
+    "model" : "coffeepod"
+}

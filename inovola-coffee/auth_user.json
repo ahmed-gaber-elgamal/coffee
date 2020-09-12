@@ -1,0 +1,14 @@
+{ 
+    "_id" : ObjectId("5f5c2014370beda0678926b4"), 
+    "id" : NumberInt(1), 
+    "password" : "pbkdf2_sha256$180000$2U5EjmivBgir$0oqJ4TaEM4GozjQoHPHqU614OYO87X0M3g7MmLuGmzI=", 
+    "last_login" : ISODate("2020-09-12T01:38:02.085+0000"), 
+    "is_superuser" : true, 
+    "username" : "inovola", 
+    "first_name" : "", 
+    "last_name" : "", 
+    "email" : "", 
+    "is_staff" : true, 
+    "is_active" : true, 
+    "date_joined" : ISODate("2020-09-12T01:10:43.758+0000")
+}

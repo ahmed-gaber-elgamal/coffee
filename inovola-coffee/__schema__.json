@@ -1,0 +1,294 @@
+{ 
+    "_id" : ObjectId("5f5c15d7be6a1d25c0f39de0"), 
+    "name" : "django_migrations", 
+    "auto" : {
+        "field_names" : [
+            "id"
+        ], 
+        "seq" : NumberInt(23)
+    }, 
+    "fields" : {
+        "app" : {
+            "type_code" : "string"
+        }, 
+        "applied" : {
+            "type_code" : "date"
+        }, 
+        "id" : {
+            "type_code" : "int"
+        }, 
+        "name" : {
+            "type_code" : "string"
+        }
+    }
+}
+{ 
+    "_id" : ObjectId("5f5c15d8be6a1d25c0f39de5"), 
+    "name" : "django_content_type", 
+    "auto" : {
+        "field_names" : [
+            "id"
+        ], 
+        "seq" : NumberInt(8)
+    }, 
+    "fields" : {
+        "app_label" : {
+            "type_code" : "string"
+        }, 
+        "id" : {
+            "type_code" : "int"
+        }, 
+        "model" : {
+            "type_code" : "string"
+        }
+    }
+}
+{ 
+    "_id" : ObjectId("5f5c15d8be6a1d25c0f39def"), 
+    "name" : "auth_permission", 
+    "auto" : {
+        "field_names" : [
+            "id"
+        ], 
+        "seq" : NumberInt(32)
+    }, 
+    "fields" : {
+        "codename" : {
+            "type_code" : "string"
+        }, 
+        "content_type_id" : {
+            "type_code" : "int"
+        }, 
+        "id" : {
+            "type_code" : "int"
+        }, 
+        "name" : {
+            "type_code" : "string"
+        }
+    }
+}
+{ 
+    "_id" : ObjectId("5f5c15d9be6a1d25c0f39df5"), 
+    "name" : "auth_group", 
+    "auto" : {
+        "field_names" : [
+            "id"
+        ], 
+        "seq" : NumberInt(0)
+    }, 
+    "fields" : {
+        "id" : {
+            "type_code" : "int"
+        }, 
+        "name" : {
+            "type_code" : "string"
+        }
+    }
+}
+{ 
+    "_id" : ObjectId("5f5c15d9be6a1d25c0f39dfa"), 
+    "name" : "auth_group_permissions", 
+    "auto" : {
+        "field_names" : [
+            "id"
+        ], 
+        "seq" : NumberInt(0)
+    }, 
+    "fields" : {
+        "group_id" : {
+            "type_code" : "int"
+        }, 
+        "id" : {
+            "type_code" : "int"
+        }, 
+        "permission_id" : {
+            "type_code" : "int"
+        }
+    }
+}
+{ 
+    "_id" : ObjectId("5f5c15dabe6a1d25c0f39e00"), 
+    "name" : "auth_user", 
+    "auto" : {
+        "field_names" : [
+            "id"
+        ], 
+        "seq" : NumberInt(1)
+    }, 
+    "fields" : {
+        "date_joined" : {
+            "type_code" : "date"
+        }, 
+        "email" : {
+            "type_code" : "string"
+        }, 
+        "first_name" : {
+            "type_code" : "string"
+        }, 
+        "id" : {
+            "type_code" : "int"
+        }, 
+        "is_active" : {
+            "type_code" : "bool"
+        }, 
+        "is_staff" : {
+            "type_code" : "bool"
+        }, 
+        "is_superuser" : {
+            "type_code" : "bool"
+        }, 
+        "last_login" : {
+            "type_code" : "date"
+        }, 
+        "last_name" : {
+            "type_code" : "string"
+        }, 
+        "password" : {
+            "type_code" : "string"
+        }, 
+        "username" : {
+            "type_code" : "string"
+        }
+    }
+}
+{ 
+    "_id" : ObjectId("5f5c15dabe6a1d25c0f39e05"), 
+    "name" : "auth_user_groups", 
+    "auto" : {
+        "field_names" : [
+            "id"
+        ], 
+        "seq" : NumberInt(0)
+    }, 
+    "fields" : {
+        "group_id" : {
+            "type_code" : "int"
+        }, 
+        "id" : {
+            "type_code" : "int"
+        }, 
+        "user_id" : {
+            "type_code" : "int"
+        }
+    }
+}
+{ 
+    "_id" : ObjectId("5f5c15dbbe6a1d25c0f39e0a"), 
+    "name" : "auth_user_user_permissions", 
+    "auto" : {
+        "field_names" : [
+            "id"
+        ], 
+        "seq" : NumberInt(0)
+    }, 
+    "fields" : {
+        "id" : {
+            "type_code" : "int"
+        }, 
+        "permission_id" : {
+            "type_code" : "int"
+        }, 
+        "user_id" : {
+            "type_code" : "int"
+        }
+    }
+}
+{ 
+    "_id" : ObjectId("5f5c15dcbe6a1d25c0f39e1d"), 
+    "name" : "django_admin_log", 
+    "auto" : {
+        "field_names" : [
+            "id"
+        ], 
+        "seq" : NumberInt(65)
+    }, 
+    "fields" : {
+        "action_flag" : {
+            "type_code" : "int"
+        }, 
+        "action_time" : {
+            "type_code" : "date"
+        }, 
+        "change_message" : {
+            "type_code" : "string"
+        }, 
+        "content_type_id" : {
+            "type_code" : "int"
+        }, 
+        "id" : {
+            "type_code" : "int"
+        }, 
+        "object_id" : {
+            "type_code" : "string"
+        }, 
+        "object_repr" : {
+            "type_code" : "string"
+        }, 
+        "user_id" : {
+            "type_code" : "int"
+        }
+    }
+}
+{ 
+    "_id" : ObjectId("5f5c15ddbe6a1d25c0f39e50"), 
+    "name" : "django_session", 
+    "fields" : {
+        "expire_date" : {
+            "type_code" : "date"
+        }, 
+        "session_data" : {
+            "type_code" : "string"
+        }, 
+        "session_key" : {
+            "type_code" : "string"
+        }
+    }
+}
+{ 
+    "_id" : ObjectId("5f5c2523be6a1d25c0f39f9d"), 
+    "name" : "coffee_coffeemachine", 
+    "auto" : {
+        "field_names" : [
+            "id"
+        ], 
+        "seq" : NumberInt(22)
+    }, 
+    "fields" : {
+        "id" : {
+            "type_code" : "int"
+        }, 
+        "product_type" : {
+            "type_code" : "string"
+        }, 
+        "water_line_compatible" : {
+            "type_code" : "bool"
+        }, 
+        "model_type" : {
+            "type_code" : null
+        }
+    }
+}
+{ 
+    "_id" : ObjectId("5f5c2927be6a1d25c0f3a117"), 
+    "name" : "coffee_coffeepod", 
+    "auto" : {
+        "field_names" : [
+            "id"
+        ], 
+        "seq" : NumberInt(27)
+    }, 
+    "fields" : {
+        "coffee_flavor" : {
+            "type_code" : "string"
+        }, 
+        "id" : {
+            "type_code" : "int"
+        }, 
+        "pack_size" : {
+            "type_code" : "string"
+        }, 
+        "product_type" : {
+            "type_code" : "string"
+        }
+    }
+}

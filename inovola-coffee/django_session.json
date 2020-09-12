@@ -1,0 +1,6 @@
+{ 
+    "_id" : ObjectId("5f5c267a8a06f8c0d9331e33"), 
+    "session_key" : "whilpb2ty6mnkgvvyjjr957c9xsrl5cf", 
+    "session_data" : "OTZiZTdlNzVhNjFkZDE5ODIxMWI0ZjdmNDllNzc0MmRkMjE1MGMxNDp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIzZmU5NDAyMjFhODZjY2Y2YjZiODQ0OWM0Mzk1NWE1M2E3NzJiODUxIn0=", 
+    "expire_date" : ISODate("2020-09-26T01:38:02.098+0000")
+}

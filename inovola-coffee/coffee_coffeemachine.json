@@ -1,0 +1,63 @@
+{ 
+    "_id" : ObjectId("5f5cc5fbd92910450c061490"), 
+    "id" : NumberInt(12), 
+    "product_type" : "COFFEE_MACHINE_SMALL", 
+    "water_line_compatible" : false, 
+    "model_type" : "BASE_MODEL"
+}
+{ 
+    "_id" : ObjectId("5f5cc607d92910450c061492"), 
+    "id" : NumberInt(13), 
+    "product_type" : "COFFEE_MACHINE_SMALL", 
+    "water_line_compatible" : false, 
+    "model_type" : "PREMIUM_MODEL"
+}
+{ 
+    "_id" : ObjectId("5f5cc615d92910450c061494"), 
+    "id" : NumberInt(14), 
+    "product_type" : "COFFEE_MACHINE_SMALL", 
+    "water_line_compatible" : true, 
+    "model_type" : "DELUXE_MODEL"
+}
+{ 
+    "_id" : ObjectId("5f5cc624d92910450c061496"), 
+    "id" : NumberInt(15), 
+    "product_type" : "COFFEE_MACHINE_LARGE", 
+    "water_line_compatible" : false, 
+    "model_type" : "BASE_MODEL"
+}
+{ 
+    "_id" : ObjectId("5f5cc63ad92910450c061498"), 
+    "id" : NumberInt(16), 
+    "product_type" : "COFFEE_MACHINE_LARGE", 
+    "water_line_compatible" : true, 
+    "model_type" : "PREMIUM_MODEL"
+}
+{ 
+    "_id" : ObjectId("5f5cc649d92910450c06149a"), 
+    "id" : NumberInt(17), 
+    "product_type" : "COFFEE_MACHINE_LARGE", 
+    "water_line_compatible" : true, 
+    "model_type" : "DELUXE_MODEL"
+}
+{ 
+    "_id" : ObjectId("5f5cc65cd92910450c06149c"), 
+    "id" : NumberInt(18), 
+    "product_type" : "ESPRESSO_MACHINE", 
+    "water_line_compatible" : false, 
+    "model_type" : "BASE_MODEL"
+}
+{ 
+    "_id" : ObjectId("5f5cc66ad92910450c06149e"), 
+    "id" : NumberInt(19), 
+    "product_type" : "ESPRESSO_MACHINE", 
+    "water_line_compatible" : false, 
+    "model_type" : "PREMIUM_MODEL"
+}
+{ 
+    "_id" : ObjectId("5f5cc680d92910450c0614a0"), 
+    "id" : NumberInt(20), 
+    "product_type" : "ESPRESSO_MACHINE", 
+    "water_line_compatible" : true, 
+    "model_type" : "DELUXE_MODEL"
+}
