@@ -15,7 +15,7 @@
 - `mongoimport --db inovola-coffee --collection auth_user --file 'your_project_path/inovola-coffee/auth_user.json'`
 ### Running Server
 - `python3 manage.py runserver`
-###login to django-admin
+### login to django-admin
 - go to `http://localhost:8000/admin/`
 - username: `inovola`
 - Password: `inovola`
