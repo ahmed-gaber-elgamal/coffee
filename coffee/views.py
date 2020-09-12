@@ -1,3 +1,9 @@
 from django.shortcuts import render
 
-# Create your views here.
+# from .models import CoffeeMachine, CoffeePod
+
+def index(request):
+    # context = {
+    #     'products': Product.objects.all(),
+    # }
+    return render(request, 'coffee/index.html')
